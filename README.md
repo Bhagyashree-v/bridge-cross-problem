@@ -57,5 +57,6 @@ CONTRIBUTIONS:-
                   2.depth information about greedy approach
                   3.depth information about optimal solution
                   4.learnt how create and debug in java language
-     NOTE I HAVE USED intellj IDEA software for desigining the code.
+                  
+     NOTE: I HAVE USED intellj IDEA software for desigining the code.
      
